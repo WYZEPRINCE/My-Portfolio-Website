@@ -1,5 +1,5 @@
 # My-Portfolio-Website
-This portfolio website is designed to highlight my achievements, skills, and personality as a designer developer. It features a clean and responsive design, making it accessible on various devices.
+This portfolio website is designed to highlight my achievements, skills, and personality as a designer and developer. It features a clean and responsive design, making it accessible on various devices.
 
 # Technologies Used
 - HTML5
